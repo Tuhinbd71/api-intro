@@ -1,0 +1,9 @@
+h2{
+    color: rgb(47, 15, 161);
+}
+div{
+    background-color: antiquewhite;
+    border: 2px solid salmon;
+    margin: 4px;
+    border-radius: 5px;
+}
